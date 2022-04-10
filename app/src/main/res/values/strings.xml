@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyViewsandView</string>
+    <string name="text1">Laundry section adalah merupakan salah satu bagian dari team housekeeping yang
+        mempunyai tugas untuk mencuci segala linen dan kain hotel dan mencuci pakaian dari tamu juga.
+        \n\nKeterlibatan air. Pada proses laundry, cucian dibersihkan di dalam air bercampur detergen
+        untuk mengangkat kotoran sehingga cucian perlu dikeringkan setelah menjalani proses laundry.
+        \n\nBahan pembersih. Bahan pembersih yang dipakai dalam laundry berupa deterjen dengan tambahan
+        pewangi dan pelembut kain, kurang lebih sama dengan yang Ibu pakai di rumah.
+    </string>
+</resources>
